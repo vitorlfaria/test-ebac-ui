@@ -1,0 +1,23 @@
+{
+  "name": "test-ebac-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorlfaria/test-ebac-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorlfaria/test-ebac-ui/issues"
+  },
+  "homepage": "https://github.com/vitorlfaria/test-ebac-ui#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
